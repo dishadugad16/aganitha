@@ -7,6 +7,12 @@ body {
   color: #555;
 }
 
+.logo {
+  display: inline-block;
+  height: 50px;
+  margin-right: 4px; /* Adjust margin as needed */
+}
+
 h2 {
   margin-top: 1em;
   padding-top: 1em;
@@ -18,7 +24,7 @@ h2 {
 
 header {
   background-color: #263d36;
-  background-image: url("https://drive.google.com/file/d/16IZEGjkeYh71LIP47-n7ZTt0pSD3Lw4t/view?usp=sharing");
+  background-image: url("background.webp");
   background-position: center top;
   background-repeat: no-repeat;
   background-size: cover;
